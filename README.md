@@ -2,7 +2,7 @@
 
 This project is designed to analyze and match topics with related opinions and generate conclusions using a language model. The primary goal is to group topics with related opinions and generate meaningful conclusions based on these groups.
 
-The output is not perfect and may be lack of coherence and accuracy... I tried some approaches but this project is the closest to the example conclusion that given to me. You can see the my example conclusion (my output) picture at the end of this readme file.
+Some of the conclusions are not perfect and may be lack of coherence and accuracy... I tried some approaches but this project is the closest to the example conclusion that given to me. You can see my example conclusion (my output) picture at the end of this readme file. It has some topics and their conclusions.
 
 
 ## Data Files
