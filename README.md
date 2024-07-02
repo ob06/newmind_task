@@ -40,4 +40,5 @@ The output is not perfect and may be lack of coherence and accuracy... I tried s
 
 ## A part from my output: (Conclusion.csv)
 ![example_conclusions](https://github.com/ob06/newmind_task/assets/87376313/e47f9b70-cce0-42b3-9442-068828dc22ac)
+
 As you can see from above, despite some of the conclusion texts may be more accurate and coherent than others. But some of them are repeating and not coherent. This shows that although my approach works and gives some coherent conclusions, it does not achieve the desired result 100%.
